@@ -10,7 +10,7 @@
 <h2>Overview</h2>
 <p>The FED-Purchase-History-Project is a web application designed to manage all your purchases. It allows users to add new items, view existing items, filter items by month and year, save data locally, and clear stored data.</p>
 <p>Link to the web: <a href="https://fed-finalproject.netlify.app/">FED-Purchase-History-Project</a></p>
-<img src="https://user-images.githubusercontent.com/107958370/232275317-e15a6ad1-ab25-4958-8425-9e8ee1df270b.png" alt="Project Screenshot" width="500">
+<img src="https://user-images.githubusercontent.com/107958370/232275317-e15a6ad1-ab25-4958-8425-9e8ee1df270b.png" alt="Project Screenshot" style="display:block; margin:auto; max-width:100%;">
 
 <h2>Technologies Used</h2>
 <ul>
